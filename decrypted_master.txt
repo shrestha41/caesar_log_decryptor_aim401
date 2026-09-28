@@ -1,0 +1,6 @@
+2026-09-28 10:15:02 INFO User login successful
+2026-09-28 10:17:45 WARNING Multiple failed password attempts
+2026-09-28 10:20:11 CRITICAL Security BREACH detected on server
+2026-09-28 10:25:33 INFO Backup completed
+2026-09-28 10:31:09 ERROR Disk usage at 95 percent
+2026-09-28 10:40:50 ALERT Possible data breach reported
